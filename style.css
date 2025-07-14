@@ -1,5 +1,9 @@
 body{
     color: white;
-    background: purple;
+    background: yellow;
 
+}
+
+header {
+    border: solid 2px black;
 }
