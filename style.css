@@ -1,9 +1,17 @@
 body{
     color: white;
-    background: yellow;
+    background: yellow
+    margin: 0px;
 
 }
 
 header {
-    border: solid 2px black;
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
 }
+
+ section {
+    background: rgb(250, 253, 99)
+ }
